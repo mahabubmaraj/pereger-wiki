@@ -1,3 +1,3 @@
-Wiki for the game Pereger Online
+Wiki for Pereger Online
 
-https://peregeronline.com/
+https://peregeronline.com/wiki
